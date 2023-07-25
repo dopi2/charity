@@ -1,0 +1,46 @@
+.logo{
+    width: 120px;
+}
+#top{
+    margin-top: -3%;
+}
+
+#nav-link a{
+    font-family: 'Questrial', sans-serif !important;
+    font-size:17px;
+    color:#000;
+    font-weight: 400;
+}
+#nav-link a:hover{
+    color:#7FB432 !important;
+}
+
+#nav-link a:first-child{
+    color:#7FB432 !important;
+}
+
+#btn2 button{
+    font-family: 'Questrial', sans-serif !important;
+    font-weight: 400;
+ background-color: #000;
+    font-size: 17px;
+}
+#resp{
+    margin-top: -3%;
+}
+#resp a{
+    font-family: 'Questrial', sans-serif !important;
+    font-size:17px;
+    color:#000;
+    font-weight: 400;
+}
+
+
+
+#resp a:hover{
+    color:#7FB432 !important;
+}
+
+#resp a:first-child{
+    color:#7FB432 !important;
+}
